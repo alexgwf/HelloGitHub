@@ -26,13 +26,17 @@
 - [其它](#其它)
 
 
+- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+
+**Tips**：如果文中的图刷不出来，可以向我们[反馈](https://github.com/521xueweihan/HelloGitHub/issues/899)。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
-欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+欢迎关注 HelloGitHub 公众号
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[官网](https://hellogithub.com/)
+> **以下为本期内容**｜每个月 **28** 号发布最新一期
 
 ### C# 项目
 1、[WeiXinMPSDK](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/JeffreySu/WeiXinMPSDK)：微信公众平台 SDK，支持 .NET Framework 及 .NET Core。已支持微信公众号、企业号、开放平台、微信支付、JSSDK。此项目开源、免费、持续维护。
@@ -40,7 +44,7 @@
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
-2、[gogs](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gogits/gogs)：用 Go 写的一款极易搭建的自助 Git 服务，支持所有平台。就像 GitLab 一样的服务，但是 GitLab 是基于 ruby 语言的。另外：完善的中文文档、支持 Go 语言支持的所有平台，包括 Linux、Mac OS X、Windows 以及 ARM 平台。[中文介绍](https://github.com/gogits/gogs/blob/master/README_ZH.md)
+2、[gogs](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gogs/gogs)：用 Go 写的一款极易搭建的自助 Git 服务，支持所有平台。就像 GitLab 一样的服务，但是 GitLab 是基于 ruby 语言的。另外：完善的中文文档、支持 Go 语言支持的所有平台，包括 Linux、Mac OS X、Windows 以及 ARM 平台。[中文介绍](https://github.com/gogits/gogs/blob/master/README_ZH.md)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/05/img/gogs-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
@@ -80,12 +84,12 @@ $pinyin->convert('带着希望去旅行，比到达终点更美好', PINYIN_ASCI
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
-6、[superset](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/apache/incubator-superset)：企业级的数据探索、展示平台。功能很强大，可以用来做数据分析、展示。如下图：
+6、[incubator-superset](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/apache/incubator-superset)：企业级的数据探索、展示平台。功能很强大，可以用来做数据分析、展示。如下图：
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/05/img/superset-min.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/05/img/superset-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
-7、[flaskbb](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sh4nks/flaskbb)：基于 Flask 框架做的论坛，功能有限，轻量级的论坛应用[在线文档](https://flaskbb.readthedocs.io/en/latest/index.html)，可以在这个项目上进行二次开发，实现更加复杂的功能。[在线预览](https://forums.flaskbb.org)
+7、[flaskbb](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/flaskbb/flaskbb)：基于 Flask 框架做的论坛，功能有限，轻量级的论坛应用[在线文档](https://flaskbb.readthedocs.io/en/latest/index.html)，可以在这个项目上进行二次开发，实现更加复杂的功能。[在线预览](https://forums.flaskbb.org)
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/05/img/flask-bb-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
@@ -111,13 +115,15 @@ $pinyin->convert('带着希望去旅行，比到达终点更美好', PINYIN_ASCI
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/04/HelloGitHub04.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/673'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/06/HelloGitHub06.md">『下一期』</a>
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/04/HelloGitHub04.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/06/HelloGitHub06.md">『下一期』</a>
 </p>
 
 ---
 <p align="center">
-    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a><br>
-    <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
+    👉 <a href='https://afdian.net/@HelloGitHub'>点击赞助</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击推荐项目</a> 👈<br>
+    微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
+    "第一时间收到推送及更多内容"<br>
+
 </p>
 
 

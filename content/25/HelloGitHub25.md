@@ -30,13 +30,17 @@
 - [机器学习](#机器学习)
 
 
+- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+
+**Tips**：如果文中的图刷不出来，可以向我们[反馈](https://github.com/521xueweihan/HelloGitHub/issues/899)。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
-欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+欢迎关注 HelloGitHub 公众号
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[官网](https://hellogithub.com/)
+> **以下为本期内容**｜每个月 **28** 号发布最新一期
 
 ### C 项目
 1、[swipe-workspace](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/CuberL/swipe-workspace)：基于 libinput 实现 Linux 系统下通过二指滑动控制面板，切换屏幕的程序。虽然功能简单，且不支持全平台。但是十分推荐这种自己动手实现一个实用的功能这种行为，这是非常有成就感的事情
@@ -62,7 +66,7 @@
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Java 项目
-5、[Java-Interview](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/crossoverJie/Java-Interview)：该项目介绍的内容包含：Java 基础知识、底层原理、算法详解、大厂面试真题等
+5、[JCSprout](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/crossoverJie/JCSprout)：该项目介绍的内容包含：Java 基础知识、底层原理、算法详解、大厂面试真题等
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -133,7 +137,7 @@ console.log( result );  // [ 116.41661560068297, 39.92196580126834 ]
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
-12、[Synonyms](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/huyingxi/Synonyms)：中文近义词工具包。支持自然语言理解的很多任务：文本对齐、推荐算法、相似度计算、语义偏移、关键字提取、概念提取、自动摘要、搜索引擎等。示例代码如下：
+12、[Synonyms](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/chatopera/Synonyms)：中文近义词工具包。支持自然语言理解的很多任务：文本对齐、推荐算法、相似度计算、语义偏移、关键字提取、概念提取、自动摘要、搜索引擎等。示例代码如下：
 ```python
 import synonyms
 synonyms.seg("能量")
@@ -158,7 +162,7 @@ res = fetch('http://httpbin.org/status/500')
 print('#2 status:', res.status_code)
 ```
 
-14、[incubator-airflow](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/apache/incubator-airflow)：定时任务管理平台，管理和调度各种离线定时任务，自带 Web 管理界面。当定时任务量达到百级别的时候，就无法再使用 crontab 有效、方便地管理这些任务了。该项目就是为了解决了这个问题而诞生的
+14、[airflow](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/apache/airflow)：定时任务管理平台，管理和调度各种离线定时任务，自带 Web 管理界面。当定时任务量达到百级别的时候，就无法再使用 crontab 有效、方便地管理这些任务了。该项目就是为了解决了这个问题而诞生的
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/25/img/incubator-airflow-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -175,7 +179,7 @@ print('#2 status:', res.status_code)
 
 18、[awesome-leetcode](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tangweikun/awesome-leetcode)：该项目收集了各种编程语言的 Leetcode 题解
 
-19、[open-source-mac-os-apps](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/serhii-londar/open-source-mac-os-apps)：（英文）MacOS 系统上的开源应用集合，并标注了应用通过那种编程语言实现
+19、[open-source-mac-os-apps](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/serhii-londar/open-source-mac-os-apps)：（英文）macOS 系统上的开源应用集合，并标注了应用通过那种编程语言实现
 
 20、[awesome-spider](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/facert/awesome-spider)：爬虫集合，大多为 Python 语言项目
 
@@ -195,20 +199,22 @@ print('#2 status:', res.status_code)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/25/img/pytorch-book-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
-24、[ChatBotCourse](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/warmheartli/ChatBotCourse)：该项目介绍了如何自己动手做聊天机器人。全面地介绍了所需要的技术：自然语言识别、分词、语料库、机器学习等，包含所需的 Java 和 Python 代码
+24、[ChatBotCourse](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lcdevelop/ChatBotCourse)：该项目介绍了如何自己动手做聊天机器人。全面地介绍了所需要的技术：自然语言识别、分词、语料库、机器学习等，包含所需的 Java 和 Python 代码
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/24/HelloGitHub24.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/673'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/26/HelloGitHub26.md">『下一期』</a>
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/24/HelloGitHub24.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/26/HelloGitHub26.md">『下一期』</a>
 </p>
 
 ---
 <p align="center">
-    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a><br>
-    <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
+    👉 <a href='https://afdian.net/@HelloGitHub'>点击赞助</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击推荐项目</a> 👈<br>
+    微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
+    "第一时间收到推送及更多内容"<br>
+
 </p>
 
 

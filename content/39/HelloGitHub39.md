@@ -34,16 +34,20 @@
 - [机器学习](#机器学习)
 
 
+- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+
+**Tips**：如果文中的图刷不出来，可以向我们[反馈](https://github.com/521xueweihan/HelloGitHub/issues/899)。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
-欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+欢迎关注 HelloGitHub 公众号
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[官网](https://hellogithub.com/)
+> **以下为本期内容**｜每个月 **28** 号发布最新一期
 
 ### C# 项目
-1、[FreeSql](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/2881099/FreeSql)：一个功能强大的 C# 对象关系映射程序（ORM），支持 .NETCore 2.1+、.NETFramework 4.5+ 开发模式下，开箱即用，可繁可简的使用方式。支持 CodeFirst 迁移、丰富的表达式函数、支持多种数据库、大量采用 ExpressionTree 技术提升性能等功能。示例代码：
+1、[FreeSql](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dotnetcore/FreeSql)：一个功能强大的 C# 对象关系映射程序（ORM），支持 .NETCore 2.1+、.NETFramework 4.5+ 开发模式下，开箱即用，可繁可简的使用方式。支持 CodeFirst 迁移、丰富的表达式函数、支持多种数据库、大量采用 ExpressionTree 技术提升性能等功能。示例代码：
 ```csharp
 var t0 = fsql.Select<Tag>()
     .Where(a => a.Parent.Parent.Name == "粤语")
@@ -64,7 +68,7 @@ var t3 = fsql.Select<Xxx>()
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### C++ 项目
-2、[pprint](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/p-ranav/pprint)：一个让输出变得更漂亮的 C++ 库。就像 python 语言的 pprint 库，它对基本类型、字符串、复数、enum 类型、STL 容器等做了输出格式优化，有了缩紧和分行才更容易发现这个世界的美好。示例代码如下：
+2、[pprint](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/p-ranav/pprint)：一个让输出变得更漂亮的 C++ 库。就像 python 语言的 pprint 库，它对基本类型、字符串、复数、enum 类型、STL 容器等做了输出格式优化，有了缩进和分行才更容易发现这个世界的美好。示例代码如下：
 ```c++
 #include <pprint.hpp>
 printer.print(std::map<std::string, std::set<int>>{{"foo", {1, 2, 3, 3, 2, 1}}, {"bar", {7, 6, 5, 4}}});
@@ -166,7 +170,7 @@ doc.X().Background.ColorAttr.ST_HexColorRGB = color.RGB(50, 50, 50).AsRGBString(
 
 14、[fe-interview](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/haizlin/fe-interview)：每天早上 4 个基础前端面试题，助你在前端面试中‘所向披靡’，无人能挡
 
-15、[AutoPiano](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/WarpPrism/AutoPiano)：自由钢琴（AutoPiano）是利用 HTML5 技术开发的在线钢琴应用。在学习工作之余可以享受钢琴、音乐的美好，支持钢琴曲的自动播放功能、按键提示。让学习钢琴变得简单，谁都可以练成‘钢琴手’，[在线体验](http://www.autopiano.cn/)
+15、[AutoPiano](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/AutoPiano/AutoPiano)：自由钢琴（AutoPiano）是利用 HTML5 技术开发的在线钢琴应用。在学习工作之余可以享受钢琴、音乐的美好，支持钢琴曲的自动播放功能、按键提示。让学习钢琴变得简单，谁都可以练成‘钢琴手’，[在线体验](http://www.autopiano.cn/)
 
 16、[HitUP](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/wonderbeyond/HitUP)：一款发现 Top 系列的 Chrome 扩展。它会替换掉浏览器默认的 New Tab 空白页面，助你保持对流行技术趋势的跟进。核心功能是展示 GitHub 上近期最流行的项目，并会围绕 “Find top things” 的主题谨慎添加新特性，让你对新技术和新事物‘了如指掌’
 
@@ -217,7 +221,7 @@ Downloading 完整版第五期：陈晓卿 中国有俩行当门槛极低——�
 
 ```
 
-23、[arrow](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/crsmithdev/arrow)：还在为处理时间、时区、转化、夏令时等问题而头疼吗？这个 Python 的第三方时间库。提供了更便捷的方式来创建、操作和格式化时间和日期，用更少的代码来处理时间和日期。示例代码：
+23、[arrow](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/arrow-py/arrow)：还在为处理时间、时区、转化、夏令时等问题而头疼吗？这个 Python 的第三方时间库。提供了更便捷的方式来创建、操作和格式化时间和日期，用更少的代码来处理时间和日期。示例代码：
 ```
 >>> import arrow
 >>> utc = arrow.utcnow()
@@ -307,13 +311,15 @@ dropout(input_) # RETURNS: torch.FloatTensor (6x3x10)
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/38/HelloGitHub38.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/673'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/40/HelloGitHub40.md">『下一期』</a>
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/38/HelloGitHub38.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/40/HelloGitHub40.md">『下一期』</a>
 </p>
 
 ---
 <p align="center">
-    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a><br>
-    <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
+    👉 <a href='https://afdian.net/@HelloGitHub'>点击赞助</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击推荐项目</a> 👈<br>
+    微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
+    "第一时间收到推送及更多内容"<br>
+
 </p>
 
 

@@ -31,13 +31,17 @@
 - [机器学习](#机器学习)
 
 
+- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+
+**Tips**：如果文中的图刷不出来，可以向我们[反馈](https://github.com/521xueweihan/HelloGitHub/issues/899)。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
-欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+欢迎关注 HelloGitHub 公众号
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[官网](https://hellogithub.com/)
+> **以下为本期内容**｜每个月 **28** 号发布最新一期
 
 ### C# 项目
 1、[csredis](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/2881099/csredis)：Redis.io 官方推荐的 C# 语言 redis 客户端库，支持 redis 2.8-5.0 版本的所有命令，且包含哨兵、集群等功能。该项目从 2016 年开始持续迭代更新，实现了低门槛、高性能和分区等高级玩法。该项目作者：[2881099](https://github.com/2881099)，在 GitHub 上开源了很多有趣、实用的 C# 项目。欢迎大家关注他，同时参与到他的项目中，为开源社区贡献自己的一份力量。示例代码：
@@ -193,7 +197,7 @@ if __name__ == '__main__':
     print(lun)  # 二零一九年 七月 十四 星期四 无
 ```
 
-17、[bullet](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Mckinsey666/bullet)：一个支持终端输入和菜单选择的 Python 库。可以让使用者在终端上用方向键移动、单选、复选、密码输入等，而且支持定制化格式和颜色。看下面的效果图你就知道它是干什么
+17、[bullet](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bchao1/bullet)：一个支持终端输入和菜单选择的 Python 库。可以让使用者在终端上用方向键移动、单选、复选、密码输入等，而且支持定制化格式和颜色。看下面的效果图你就知道它是干什么
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/41/img/bullet.gif' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -250,7 +254,7 @@ RestClient.post( url,
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Swift 项目
-21、[AppearancesSwitcher](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/GMWorkStudio/AppearancesSwitcher)：可以在 macOS 通知中心上快速切换“亮/暗”主题的小工具
+21、[AppearancesSwitcher](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/BoringApp/AppearancesSwitcher)：可以在 macOS 通知中心上快速切换“亮/暗”主题的小工具
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/41/img/AppearancesSwitcher.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -271,7 +275,7 @@ RestClient.post( url,
 ### 机器学习
 25、[numpy-cn](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/teadocs/numpy-cn)：这是 NumPy 中文翻译文档。适合任何想了解学习 NumPy 的人，还可以当作手册查阅。如果你是新手朋友，推荐阅读基础文章中的：理解 Numpy、NumPy 简单入门教程、创建 Numpy 数组的不同方式，参考文章里会不定期更新国内外优秀的 Numpy 相关的内容。如果你想徒手实现神经网络可以参看 NumPy 与 神经网络、 NumPy 实现 DNC、RNN 和 LSTM 神经网络算法
 
-26、[Awesome_Multimodal_Research](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Eurus-Holmes/Awesome_Multimodal_Research)：该项目是收录多模态相关研究的一个精选列表，正在持续更新中。现实世界中的信息通常以不同的模态出现。例如，图像通常与标签和文本解释联系在一起；文本包含图像以便更清楚地表达文章的主要思想。不同的模态由迥异的统计特性刻画。例如，图像通常表示为特征提取器的像素强度或输出，而文本则表示为离散的词向量。由于不同信息资源的统计特性不同，发现不同模态之间的关系是非常重要的
+26、[Awesome-Multimodal-Research](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Eurus-Holmes/Awesome-Multimodal-Research)：该项目是收录多模态相关研究的一个精选列表，正在持续更新中。现实世界中的信息通常以不同的模态出现。例如，图像通常与标签和文本解释联系在一起；文本包含图像以便更清楚地表达文章的主要思想。不同的模态由迥异的统计特性刻画。例如，图像通常表示为特征提取器的像素强度或输出，而文本则表示为离散的词向量。由于不同信息资源的统计特性不同，发现不同模态之间的关系是非常重要的
 
 27、[rasa](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/RasaHQ/rasa)：一个专门为了多轮人机对话而生的框架。主要包含 Rasa Core、Rasa NLU 两大模块，提供了对话场景、意图理解、实体抽取等功能。用户只需按照平台的语料格式构建自己的语料，便可以方便的进行意图理解和实体抽取的训练。目前使用 Rasa 平台的用户也逐渐多了起来，除了官方文档网上也容易的找到相关的项目，便于学习和上手
 
@@ -284,13 +288,15 @@ RestClient.post( url,
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/40/HelloGitHub40.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/673'>反馈和建议</a> | 『下一期』
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/40/HelloGitHub40.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/42/HelloGitHub42.md">『下一期』</a>
 </p>
 
 ---
 <p align="center">
-    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a><br>
-    <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
+    👉 <a href='https://afdian.net/@HelloGitHub'>点击赞助</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击推荐项目</a> 👈<br>
+    微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
+    "第一时间收到推送及更多内容"<br>
+
 </p>
 
 

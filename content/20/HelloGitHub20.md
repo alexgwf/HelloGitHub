@@ -30,13 +30,17 @@
 - [机器学习](#机器学习)
 
 
+- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+
+**Tips**：如果文中的图刷不出来，可以向我们[反馈](https://github.com/521xueweihan/HelloGitHub/issues/899)。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
-欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+欢迎关注 HelloGitHub 公众号
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[官网](https://hellogithub.com/)
+> **以下为本期内容**｜每个月 **28** 号发布最新一期
 
 ### C# 项目
 1、[csharplang](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dotnet/csharplang)：C# 语言设计官方项目，在这里你可以直接参与讨论。同时还有：
@@ -109,11 +113,11 @@ PayAPI.getInstance().sendPayRequest(wechatPayReq);
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/20/img/React-Cnode.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-11、[nba-go](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xxhomey19/nba-go)：可以用命令终端查看 NBA 比赛，包括比赛开始时间表、实时比分情况、文字直播（英文）等。终端看 NBA，你才是最潮的。安装命令 `npm install -g nba-go`
+11、[nba-go](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/homerchen19/nba-go)：可以用命令终端查看 NBA 比赛，包括比赛开始时间表、实时比分情况、文字直播（英文）等。终端看 NBA，你才是最潮的。安装命令 `npm install -g nba-go`
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/20/img/nba-go-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
-12、[hub.js](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yyued/hub.js)：仅 6KB 通过简单的 API & 自由组合的链式写法，轻松订阅管理各类事件流。示例代码如下：
+12、[flowhub](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yyued/flowhub)：仅 6KB 通过简单的 API & 自由组合的链式写法，轻松订阅管理各类事件流。示例代码如下：
 ```javascript
 import $hub from 'hub-js';
 
@@ -140,7 +144,7 @@ setInterval(( ) => {
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
-15、[records](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kennethreitz/records)：Kenneth Reitz 大神的`for Humans™`系列，Records 是一个支持大多数主流关系数据库的原生 SQL 查询第三方库。API 友好，使用简单、支持命令行模式、功能多样。与此同时该库只有 500 行代码，可以当作入门阅读源码的项目，同时学习大神的编程技巧与习惯，示例代码如下：
+15、[records](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kennethreitz42/records)：Kenneth Reitz 大神的`for Humans™`系列，Records 是一个支持大多数主流关系数据库的原生 SQL 查询第三方库。API 友好，使用简单、支持命令行模式、功能多样。与此同时该库只有 500 行代码，可以当作入门阅读源码的项目，同时学习大神的编程技巧与习惯，示例代码如下：
 ```python
 import records
 
@@ -191,12 +195,12 @@ Parallel(n_jobs=1)(delayed(sqrt)(i**2) for i in range(10))
 
 21、[github-cheat-sheet](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tiimgreen/github-cheat-sheet)：GitHub 和 Git 的秘籍，[中文](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)
 
-22、[nodebestpractices](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/i0natan/nodebestpractices)：Node.js 最佳实践列表（英文）
+22、[nodebestpractices](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/goldbergyoni/nodebestpractices)：Node.js 最佳实践列表（英文）
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
-23、[angel](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Tencent/angel)：腾讯开源的高性能分布式机器学习平台，具有广泛的适用性和稳定性，模型维度越高。它将高维度的大模型合理切分到多个参数服务器节点，并通过高效的模型更新接口和运算函数，以及灵活的同步协议，可以实现各种高效的机器学习算法
+23、[angel](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Angel-ML/angel)：腾讯开源的高性能分布式机器学习平台，具有广泛的适用性和稳定性，模型维度越高。它将高维度的大模型合理切分到多个参数服务器节点，并通过高效的模型更新接口和运算函数，以及灵活的同步协议，可以实现各种高效的机器学习算法
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/20/img/angel-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -205,13 +209,15 @@ Parallel(n_jobs=1)(delayed(sqrt)(i**2) for i in range(10))
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/19/HelloGitHub19.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/673'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/21/HelloGitHub21.md">『下一期』</a>
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/19/HelloGitHub19.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/21/HelloGitHub21.md">『下一期』</a>
 </p>
 
 ---
 <p align="center">
-    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a><br>
-    <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
+    👉 <a href='https://afdian.net/@HelloGitHub'>点击赞助</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击推荐项目</a> 👈<br>
+    微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
+    "第一时间收到推送及更多内容"<br>
+
 </p>
 
 

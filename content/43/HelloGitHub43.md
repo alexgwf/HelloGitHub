@@ -33,13 +33,17 @@
 - [机器学习](#机器学习)
 
 
+- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+
+**Tips**：如果文中的图刷不出来，可以向我们[反馈](https://github.com/521xueweihan/HelloGitHub/issues/899)。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
-欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
+欢迎关注 HelloGitHub 公众号
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号发布最新一期｜[官网](https://hellogithub.com/)
+> **以下为本期内容**｜每个月 **28** 号发布最新一期
 
 ### C 项目
 1、[tmux](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tmux/tmux)：一个终端复用工具，可极大的提高工作效率。
@@ -143,17 +147,17 @@ ok  	github.com/allegro/bigcache/v2/caches_bench	256.257s
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/43/img/pacgo.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 9、[go-admin](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/GoAdminGroup/go-admin)：基于 Golang 语言的数据可视化与管理平台。特性如下：
-- 🚀高生产效率: 10分钟内做一个好看的管理后台
-- 🎨主题: 默认为adminlte，更多好看的主题正在制作中，欢迎给我们留言
-- 🔢插件化: 提供插件使用，真正实现一个插件解决不了问题，那就两个
-- ✅认证: 开箱即用的rbac认证系统
+- 🚀高生产效率：10 分钟内做一个好看的管理后台
+- 🎨主题：默认为 adminlte，更多好看的主题正在制作中，欢迎给我们留言
+- 🔢插件化：提供插件使用，真正实现一个插件解决不了问题，那就两个
+- ✅认证：开箱即用的 rbac 认证系统
 - ⚙️框架支持：支持大部分框架接入，让你更容易去上手和扩展
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/43/img/go-admin.png' style="max-width:80%; max-height=80%;"></img></p>
 
 10、[zerolog](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/rs/zerolog)：一个速度快、专门用于输出 JSON 格式日志的库。还在为解析不规则的日志而烦恼吗？有了 zerolog 你可以跳起来了！当然它还有低效但可在控制台输出漂亮日志的模式，快去试试吧。示例代码：
 ```go
-ackage main
+package main
 
 import (
     "github.com/rs/zerolog"
@@ -226,12 +230,12 @@ request('https://hellogithub.com', function (error, response, body) {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/43/img/SandDance.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-17、[chart-race-react](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Mckinsey666/chart-race-react)：一个简单易用的 Bar Chart Race（长条图赛跑动画） React 组件。示例代码：
+17、[chart-race-react](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bchao1/chart-race-react)：一个简单易用的 Bar Chart Race（长条图赛跑动画） React 组件。示例代码：
 ```javascript
 import ReactDOM from 'react-dom';
 import BarChart from 'chart-race-react';
 
-ReactDOM.render(<BarChart ></BarChart>, document.getElementById('root'));
+ReactDOM.render(<BarChart />, document.getElementById('root'));
 ```
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/43/img/chart-race-react.gif' style="max-width:80%; max-height=80%;"></img></p>
@@ -243,7 +247,7 @@ ReactDOM.render(<BarChart ></BarChart>, document.getElementById('root'));
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
-19、[TagUI-Python](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tebelorg/TagUI-Python)：一个 Python 自动化操作的库。比如：自动打开网页并截图，示例代码：
+19、[RPA-Python](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tebelorg/RPA-Python)：一个 Python 自动化操作的库。比如：自动打开网页并截图，示例代码：
 ```python
 t.init()
 t.url('https://www.google.com')
@@ -264,7 +268,7 @@ t.close()
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Swift 项目
-21、[Percent](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sindresorhus/Percent)：让 Swift 语言支持百分比类型，消除精度缺失的烦恼。示例代码：
+21、[Percentage](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sindresorhus/Percentage)：让 Swift 语言支持百分比类型，消除精度缺失的烦恼。示例代码：
 ```swift
 import Percent
 
@@ -299,23 +303,21 @@ import Percent
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 开源书籍
-27、[python_ebook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/shihyu/python_ebook)：Python 编程相关的电子书资源集合项目
-
-28、[book](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/python-leap/book)：（英文）《Cosmic Python》讲述如何管理复杂性的 Pythonic 应用程序结构的书籍
+27、[book](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/cosmicpython/book)：（英文）《Cosmic Python》讲述如何管理复杂性的 Pythonic 应用程序结构的书籍
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 教程
-29、[BigData-Notes](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/heibaiying/BigData-Notes)：大数据入门教程，该教程介绍了大数据常用技术栈的基础和核心知识。内容涵盖：Hadoop、Spark、Storm、HBase、Hive、ZooKeeper、Kafka 等
+28、[BigData-Notes](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/heibaiying/BigData-Notes)：大数据入门教程，该教程介绍了大数据常用技术栈的基础和核心知识。内容涵盖：Hadoop、Spark、Storm、HBase、Hive、ZooKeeper、Kafka 等
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
-30、[Ultra-Light-Fast-Generic-Face-Detector-1MB](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB)：1MB 大小的轻量级人脸检测模型。该模型是针对边缘计算设备，基于 libfacedetection 替换压缩网络设计实现
+29、[Ultra-Light-Fast-Generic-Face-Detector-1MB](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB)：1MB 大小的轻量级人脸检测模型。该模型是针对边缘计算设备，基于 libfacedetection 替换压缩网络设计实现
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/43/img/Ultra-Light-Fast-Generic-Face-Detector-1MB.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-31、[dimensionality_reduction_alo_codes](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/heucoder/dimensionality_reduction_alo_codes)：该项目使用 Python 实现了 11 种经典的数据抽取（数据降维）算法。同时附有相关资料、展示效果，适用于机器学习初学者和刚刚入坑数据挖掘的小伙伴
+30、[dimensionality_reduction_alo_codes](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/heucoder/dimensionality_reduction_alo_codes)：该项目使用 Python 实现了 11 种经典的数据抽取（数据降维）算法。同时附有相关资料、展示效果，适用于机器学习初学者和刚刚入坑数据挖掘的小伙伴
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/43/img/dimensionality_reduction_alo_codes.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -324,13 +326,15 @@ import Percent
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/42/HelloGitHub42.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/673'>反馈和建议</a> | 『下一期』
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/42/HelloGitHub42.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/44/HelloGitHub44.md">『下一期』</a>
 </p>
 
 ---
 <p align="center">
-    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看每天更新的前端日报吧 <a href='https://daily.fairyever.com/'><今日前端></a><br>
-    <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
+    👉 <a href='https://afdian.net/@HelloGitHub'>点击赞助</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击推荐项目</a> 👈<br>
+    微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
+    "第一时间收到推送及更多内容"<br>
+
 </p>
 
 
