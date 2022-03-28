@@ -1,23 +1,13 @@
 # 《HelloGitHub》第 44 期
->兴趣是最好的老师，**HelloGitHub** 就是帮你找到兴趣！
+> 兴趣是最好的老师，**HelloGitHub** 让你对编程感兴趣！
 <p align="center">
     <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
 </p>
 
-## 简介
-分享 GitHub 上有趣、入门级的开源项目。
-
-这是一个面向**编程新手**、**热爱编程**、**对开源社区感兴趣** 人群的月刊，月刊的内容包括：**各种编程语言的项目**、**让生活变得更美好的工具**、**书籍、学习笔记、教程等**，这些开源项目大多都是非常容易上手，而且非常 Cool。主要是希望大家能动手用起来，加入到**开源社区**中。
-- 会编程的可以贡献代码
-- 不会编程的可以反馈使用这些工具中的 Bug
-- 帮着宣传你觉得优秀的项目
-- Star 项目⭐️
-
-在浏览、参与这些项目的过程中，你将学习到**更多编程知识**、**提高编程技巧**、**找到编程的乐趣**。
-
-🎉 最后 HelloGitHub 这个项目就诞生了 🎉
-
 ## 目录
+
+**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/44/) 获取更好的阅读体验。
+
 - [C 项目](#C-项目)
 - [C++ 项目](#C-项目-1)
 - [Go 项目](#Go-项目)
@@ -27,34 +17,31 @@
 - [Python 项目](#Python-项目)
 - [Swift 项目](#Swift-项目)
 - [其它](#其它)
-- [教程](#教程)
 - [机器学习](#机器学习)
 
 
 - [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
 
-**Tips**：如果文中的图刷不出来，可以向我们[反馈](https://github.com/521xueweihan/HelloGitHub/issues/899)。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
-欢迎关注 HelloGitHub 公众号
+关注「HelloGitHub」公众号，第一时间收到推送
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号发布最新一期
+> **以下为本期内容**｜每个月 **28** 号更新
 
 ### C 项目
-1、[scrcpy](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Genymobile/scrcpy)：一款可以用电脑显示并控制 Android 手机的开源工具。连接方便使用方便，手机无需 root、无需安装任何应用。支持 USB、Wi-Fi 两种方式连接，支持 Windows、macOS、Linux 三种操作系统。注意电脑端需要安装 adb 工具
+1、[netdata](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/netdata/netdata)：一款免费开源的 Linux 系统性能实时监控工具。它易于安装、占用资源少、功能强大，支持监控多种服务
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/img/netdata.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+2、[scrcpy](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Genymobile/scrcpy)：一款可以用电脑显示并控制 Android 手机的开源工具。连接方便使用方便，手机无需 root、无需安装任何应用。支持 USB、Wi-Fi 两种方式连接，支持 Windows、macOS、Linux 三种操作系统。注意电脑端需要安装 adb 工具
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/img/scrcpy.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### C++ 项目
-2、[netdata](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/netdata/netdata)：一款免费开源的 Linux 系统性能实时监控工具。它易于安装、占用资源少、功能强大，支持监控多种服务
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/img/netdata.gif' style="max-width:80%; max-height=80%;"></img></p>
-
 3、[musikcube](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/clangen/musikcube)：一个使用 C++ 编写的终端的音乐播放器，也可以作为一个音频引擎、元数据索引器和服务器。musikcube 可以在 Windows、MacOS 、Linux 以及带有 raspbian 的树莓派上轻松编译和运行。虽然它只能在终端上使用，但是功能应有尽有。使用方法详见 [User Guide](https://github.com/clangen/musikcube/wiki/user-guide)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/img/musikcube.png' style="max-width:80%; max-height=80%;"></img></p>
@@ -198,7 +185,7 @@ do {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/img/SwiftyGif.png' style="max-width:80%; max-height=80%;"></img></p>
 
-24、[Pock](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pigigaldi/Pock)：一款在苹果电脑的触控栏中，显示 macOS 程序坞的开源工具
+24、[pock](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pock/pock)：一款在苹果电脑的触控栏中，显示 macOS 程序坞的开源工具
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/img/Pock.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -213,20 +200,17 @@ do {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/img/git-quick-stats.png' style="max-width:80%; max-height=80%;"></img></p>
 
-27、[TeachYourselfCS-CN](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/keithnull/TeachYourselfCS-CN)：《TeachYourselfCS》自学计算科学的一份书单（中文翻译版）
+27、[zh.javascript.info](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/javascript-tutorial/zh.javascript.info)：《现代 JavaScript 教程》是以最新的 JavaScript 标准为基准的教程。通过简单但详细的内容，讲解从基础到高阶的 JavaScript 相关知识，能够帮助初中级前端提升 JavaScript 等前端技术水平。[在线阅读](https://zh.javascript.info/)
 
-28、[funNLP](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/fighting41love/funNLP)：中文词库的集合。可用于：敏感词、语言检测、拆字词典等
+28、[TeachYourselfCS-CN](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/izackwu/TeachYourselfCS-CN)：《TeachYourselfCS》自学计算科学的一份书单（中文翻译版）
 
-29、[CoolplaySpark](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lw-lin/CoolplaySpark)：Spark 源代码分析、类库解读等
+29、[funNLP](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/fighting41love/funNLP)：中文词库的集合。可用于：敏感词、语言检测、拆字词典等
 
-30、[github-cards](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lepture/github-cards)：非官方的 GitHub 卡片
+30、[CoolplaySpark](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lw-lin/CoolplaySpark)：Spark 源代码分析、类库解读等
+
+31、[github-cards](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lepture/github-cards)：非官方的 GitHub 卡片
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/img/github-cards.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
-### 教程
-31、[zh.javascript.info](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/javascript-tutorial/zh.javascript.info)：《现代 JavaScript 教程》是以最新的 JavaScript 标准为基准的教程。通过简单但详细的内容，讲解从基础到高阶的 JavaScript 相关知识，能够帮助初中级前端提升 JavaScript 等前端技术水平。[在线阅读](https://zh.javascript.info/)
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -251,12 +235,11 @@ do {
 
 ---
 <p align="center">
-    👉 <a href='https://afdian.net/@HelloGitHub'>点击赞助</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击推荐项目</a> 👈<br>
+    👉 <a href='https://www.ucloud.cn/site/active/kuaijie.html?invitation_code=C1xF2ECA89A2592'>云主机 4 元/月</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    "第一时间收到推送及更多内容"<br>
-
+    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/44/'>这里</a> 获取更好的阅读体验。
 </p>
-
 
 ## 声明
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh"><img alt="知识共享许可协议" style="border-width: 0" src="https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png"></a><br>本作品采用 <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh">署名-非商业性使用-禁止演绎 4.0 国际</a> 进行许可。

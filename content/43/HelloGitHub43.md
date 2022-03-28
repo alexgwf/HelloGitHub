@@ -1,23 +1,13 @@
 # 《HelloGitHub》第 43 期
->兴趣是最好的老师，**HelloGitHub** 就是帮你找到兴趣！
+> 兴趣是最好的老师，**HelloGitHub** 让你对编程感兴趣！
 <p align="center">
     <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
 </p>
 
-## 简介
-分享 GitHub 上有趣、入门级的开源项目。
-
-这是一个面向**编程新手**、**热爱编程**、**对开源社区感兴趣** 人群的月刊，月刊的内容包括：**各种编程语言的项目**、**让生活变得更美好的工具**、**书籍、学习笔记、教程等**，这些开源项目大多都是非常容易上手，而且非常 Cool。主要是希望大家能动手用起来，加入到**开源社区**中。
-- 会编程的可以贡献代码
-- 不会编程的可以反馈使用这些工具中的 Bug
-- 帮着宣传你觉得优秀的项目
-- Star 项目⭐️
-
-在浏览、参与这些项目的过程中，你将学习到**更多编程知识**、**提高编程技巧**、**找到编程的乐趣**。
-
-🎉 最后 HelloGitHub 这个项目就诞生了 🎉
-
 ## 目录
+
+**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/43/) 获取更好的阅读体验。
+
 - [C 项目](#C-项目)
 - [C# 项目](#C-项目-1)
 - [C++ 项目](#C-项目-2)
@@ -29,21 +19,18 @@
 - [Swift 项目](#Swift-项目)
 - [其它](#其它)
 - [开源书籍](#开源书籍)
-- [教程](#教程)
 - [机器学习](#机器学习)
 
 
 - [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
 
-**Tips**：如果文中的图刷不出来，可以向我们[反馈](https://github.com/521xueweihan/HelloGitHub/issues/899)。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
-欢迎关注 HelloGitHub 公众号
+关注「HelloGitHub」公众号，第一时间收到推送
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号发布最新一期
+> **以下为本期内容**｜每个月 **28** 号更新
 
 ### C 项目
 1、[tmux](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tmux/tmux)：一个终端复用工具，可极大的提高工作效率。
@@ -281,7 +268,7 @@ import Percent
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
-22、[curlconverter](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/NickCarneiro/curlconverter)：把 curl 命令转化成各语言的代码的工具，支持 Python、JavaScript、PHP、R、Go 等语言。[在线体验](https://curl.trillworks.com/)
+22、[curlconverter](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/curlconverter/curlconverter)：把 curl 命令转化成各语言的代码的工具，支持 Python、JavaScript、PHP、R、Go 等语言。[在线体验](https://curl.trillworks.com/)
 
 23、[hub](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/github/hub)：通过命令行的方式来操作 GitHub，支持绝大多数的操作。比如：创建远程仓库、删除远程仓库、提交 PR、管理 issue 等，常用操作：
 - 创建远程仓库：hub create github-repository
@@ -290,25 +277,22 @@ import Percent
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/43/img/hub.png' style="max-width:80%; max-height=80%;"></img></p>
 
-24、[cascadia-code](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/microsoft/cascadia-code)：微软开源的一套等宽字体，有趣的是可以组合字符创建新的字形。组合效果如下：
+24、[BigData-Notes](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/heibaiying/BigData-Notes)：大数据入门教程，该教程介绍了大数据常用技术栈的基础和核心知识。内容涵盖：Hadoop、Spark、Storm、HBase、Hive、ZooKeeper、Kafka 等
+
+25、[cascadia-code](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/microsoft/cascadia-code)：微软开源的一套等宽字体，有趣的是可以组合字符创建新的字形。组合效果如下：
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/43/img/cascadia-code.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-25、[Administrative-divisions-of-China](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/modood/Administrative-divisions-of-China)：中国行政区划（五级）：省级、地级、县级、乡级和村级的数据集和爬虫程序
+26、[Administrative-divisions-of-China](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/modood/Administrative-divisions-of-China)：中国行政区划（五级）：省级、地级、县级、乡级和村级的数据集和爬虫程序
 
-26、[vim-airline](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/vim-airline/vim-airline)：一个让每个 Vim 窗口的底部，都有一个漂亮状态行的插件。展示信息和效果如下图：
+27、[vim-airline](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/vim-airline/vim-airline)：一个让每个 Vim 窗口的底部，都有一个漂亮状态行的插件。展示信息和效果如下图：
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/43/img/vim-airline.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 开源书籍
-27、[book](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/cosmicpython/book)：（英文）《Cosmic Python》讲述如何管理复杂性的 Pythonic 应用程序结构的书籍
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
-### 教程
-28、[BigData-Notes](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/heibaiying/BigData-Notes)：大数据入门教程，该教程介绍了大数据常用技术栈的基础和核心知识。内容涵盖：Hadoop、Spark、Storm、HBase、Hive、ZooKeeper、Kafka 等
+28、[book](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/cosmicpython/book)：（英文）《Cosmic Python》讲述如何管理复杂性的 Pythonic 应用程序结构的书籍
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -331,12 +315,11 @@ import Percent
 
 ---
 <p align="center">
-    👉 <a href='https://afdian.net/@HelloGitHub'>点击赞助</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击推荐项目</a> 👈<br>
+    👉 <a href='https://www.ucloud.cn/site/active/kuaijie.html?invitation_code=C1xF2ECA89A2592'>云主机 4 元/月</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    "第一时间收到推送及更多内容"<br>
-
+    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/43/'>这里</a> 获取更好的阅读体验。
 </p>
-
 
 ## 声明
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh"><img alt="知识共享许可协议" style="border-width: 0" src="https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png"></a><br>本作品采用 <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh">署名-非商业性使用-禁止演绎 4.0 国际</a> 进行许可。

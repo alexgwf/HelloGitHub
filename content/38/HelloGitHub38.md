@@ -1,23 +1,13 @@
 # 《HelloGitHub》第 38 期
->兴趣是最好的老师，**HelloGitHub** 就是帮你找到兴趣！
+> 兴趣是最好的老师，**HelloGitHub** 让你对编程感兴趣！
 <p align="center">
     <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
 </p>
 
-## 简介
-分享 GitHub 上有趣、入门级的开源项目。
-
-这是一个面向**编程新手**、**热爱编程**、**对开源社区感兴趣** 人群的月刊，月刊的内容包括：**各种编程语言的项目**、**让生活变得更美好的工具**、**书籍、学习笔记、教程等**，这些开源项目大多都是非常容易上手，而且非常 Cool。主要是希望大家能动手用起来，加入到**开源社区**中。
-- 会编程的可以贡献代码
-- 不会编程的可以反馈使用这些工具中的 Bug
-- 帮着宣传你觉得优秀的项目
-- Star 项目⭐️
-
-在浏览、参与这些项目的过程中，你将学习到**更多编程知识**、**提高编程技巧**、**找到编程的乐趣**。
-
-🎉 最后 HelloGitHub 这个项目就诞生了 🎉
-
 ## 目录
+
+**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/38/) 获取更好的阅读体验。
+
 - [C++ 项目](#C-项目)
 - [Go 项目](#Go-项目)
 - [Java 项目](#Java-项目)
@@ -27,21 +17,18 @@
 - [Ruby 项目](#Ruby-项目)
 - [Swift 项目](#Swift-项目)
 - [其它](#其它)
-- [教程](#教程)
 - [机器学习](#机器学习)
 
 
 - [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
 
-**Tips**：如果文中的图刷不出来，可以向我们[反馈](https://github.com/521xueweihan/HelloGitHub/issues/899)。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
-欢迎关注 HelloGitHub 公众号
+关注「HelloGitHub」公众号，第一时间收到推送
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号发布最新一期
+> **以下为本期内容**｜每个月 **28** 号更新
 
 ### C++ 项目
 1、[terminal](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/microsoft/terminal)：微软开源的一个全新、现代、功能丰富、高效的 Windows 终端应用程序。它支持 Windows 命令行社区最常用的许多命令，还支持选项卡、富文本、全球化、可配置性、主题和样式等功能。一直以来 Windows 不被开发者青睐的原因之一就是终端不好用，现在有了这个我都想买个 Windows 系统的电脑了（确定不是打游戏？）
@@ -53,7 +40,7 @@
 ### Go 项目
 2、[golang-developer-roadmap](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Alikhll/golang-developer-roadmap)：成为 Go 开发者的学习路线图，[中文版](https://github.com/Alikhll/golang-developer-roadmap/blob/master/i18n/ReadMe-zh-CN.md)
 
-3、[scheduler](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hsxhr-10/scheduler)：Go 语言实现的作业调度工具包。适用于需要任务调度的场景，能够让初学者学到 time、reflect 等标准库的用法，[中文文档](https://github.com/prprprus/scheduler/blob/master/README-zh.md)
+3、[scheduler](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/prprprus/scheduler)：Go 语言实现的作业调度工具包。适用于需要任务调度的场景，能够让初学者学到 time、reflect 等标准库的用法，[中文文档](https://github.com/prprprus/scheduler/blob/master/README-zh.md)
 
 4、[nic](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/EddieIvan01/nic)：一个易用的 HTTP Request 包。它封装了 Go 的 HTTP 标准库，提供了简洁优雅的 API。可以更轻松的发送HTTP 请求，解决了 Go 标准库自定义 HTTP 请求，操作 headers、cookies 时繁琐的步骤。类似于 Python 的 Requests 和 urllib 的区别。示例代码：
 ```go
@@ -201,7 +188,7 @@ Modified var:.. number = 3
 
 20、[Zvm](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/5A59/Zvm)：一款用 Python 实现的简易 JVM。实现功能如下：class 文件解析、类加载、运行时数据区、指令解释器、基本指令集、简易 GC、简易线程、简易 JDK 库，可以运行基本的 Java class 文件。代码量少，模块清晰，适合用来学习 JVM 的基本结构和实现
 
-21、[city-vein](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ttcqaq/city-vein)：用公交路线数据，还原城市结构。通过数据可视化手段，还原了 30 多个城市的城市结构。该项目中有数据获取和处理的脚本，而且该项目充分体现了数据可视化带来的便利和效果，易于激发学习编程的热情。[在线浏览](https://96486d9b.github.io/city-vein/)
+21、[city-vein](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/antct/city-vein)：用公交路线数据，还原城市结构。通过数据可视化手段，还原了 30 多个城市的城市结构。该项目中有数据获取和处理的脚本，而且该项目充分体现了数据可视化带来的便利和效果，易于激发学习编程的热情。[在线浏览](https://96486d9b.github.io/city-vein/)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/city-vein.gif' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -230,27 +217,24 @@ Modified var:.. number = 3
 
 26、[weekly](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/aliyunfe/weekly)：《阿里云前端技术周刊》
 
-27、[algo](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/wangzheng0822/algo)：必知必会的数据结构和算法代码答案（多种编程语言）
+27、[vscode-extension-samples](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/microsoft/vscode-extension-samples)：官方 VS Code 开发扩展插件的代码实例集合
 
-28、[vim-bootstrap](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/editor-bootstrap/vim-bootstrap)：一个简单、易用的 `.vimrc` 配置文件生成工具，也可通过[网站](https://vim-bootstrap.com/)点选生成。支持 Vim、NeoVim、NeoVim-Qt、MacVim 和 GVim。特点：
+28、[algo](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/wangzheng0822/algo)：必知必会的数据结构和算法代码答案（多种编程语言）
+
+29、[3d-game-shaders-for-beginners](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lettier/3d-game-shaders-for-beginners)：有关如何为 3D 游戏实施 SSAO、景深、照明、法线贴图等效果的教程。包含示例代码（C++）与 Demo，更便于理解和学习
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/3d-game-shaders-for-beginners.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+30、[vim-bootstrap](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/editor-bootstrap/vim-bootstrap)：一个简单、易用的 `.vimrc` 配置文件生成工具，也可通过[网站](https://vim-bootstrap.com/)点选生成。支持 Vim、NeoVim、NeoVim-Qt、MacVim 和 GVim。特点：
 - 轻量：包含少且必要的插件
 - 易用：适合在vim中成功存活的入门者
 - 易于定制：只需选择使用的语言,即可获得对应配置
 - 先进的插件管理器：使用 Vim-Plug 管理插件，简单易用、速度快
 - 支持多种编程语言
 
-29、[hacker-laws](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dwmkerr/hacker-laws)：程序员工作中可能使用到的定律、原则的讲解，这些原则多应用于我们的开发和设计中，开卷有益
+31、[hacker-laws](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dwmkerr/hacker-laws)：程序员工作中可能使用到的定律、原则的讲解，这些原则多应用于我们的开发和设计中，开卷有益
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/hacker-laws.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
-### 教程
-30、[vscode-extension-samples](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/microsoft/vscode-extension-samples)：官方 VS Code 开发扩展插件的代码实例集合
-
-31、[3d-game-shaders-for-beginners](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lettier/3d-game-shaders-for-beginners)：有关如何为 3D 游戏实施 SSAO、景深、照明、法线贴图等效果的教程。包含示例代码（C++）与 Demo，更便于理解和学习
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/3d-game-shaders-for-beginners.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -295,12 +279,11 @@ class IrisClassifier(BentoService):
 
 ---
 <p align="center">
-    👉 <a href='https://afdian.net/@HelloGitHub'>点击赞助</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击推荐项目</a> 👈<br>
+    👉 <a href='https://www.ucloud.cn/site/active/kuaijie.html?invitation_code=C1xF2ECA89A2592'>云主机 4 元/月</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    "第一时间收到推送及更多内容"<br>
-
+    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/38/'>这里</a> 获取更好的阅读体验。
 </p>
-
 
 ## 声明
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh"><img alt="知识共享许可协议" style="border-width: 0" src="https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png"></a><br>本作品采用 <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh">署名-非商业性使用-禁止演绎 4.0 国际</a> 进行许可。

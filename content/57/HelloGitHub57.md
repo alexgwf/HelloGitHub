@@ -1,23 +1,13 @@
 # 《HelloGitHub》第 57 期
->兴趣是最好的老师，**HelloGitHub** 就是帮你找到兴趣！
+> 兴趣是最好的老师，**HelloGitHub** 让你对编程感兴趣！
 <p align="center">
     <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
 </p>
 
-## 简介
-分享 GitHub 上有趣、入门级的开源项目。
-
-这是一个面向**编程新手**、**热爱编程**、**对开源社区感兴趣** 人群的月刊，月刊的内容包括：**各种编程语言的项目**、**让生活变得更美好的工具**、**书籍、学习笔记、教程等**，这些开源项目大多都是非常容易上手，而且非常 Cool。主要是希望大家能动手用起来，加入到**开源社区**中。
-- 会编程的可以贡献代码
-- 不会编程的可以反馈使用这些工具中的 Bug
-- 帮着宣传你觉得优秀的项目
-- Star 项目⭐️
-
-在浏览、参与这些项目的过程中，你将学习到**更多编程知识**、**提高编程技巧**、**找到编程的乐趣**。
-
-🎉 最后 HelloGitHub 这个项目就诞生了 🎉
-
 ## 目录
+
+**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/57/) 获取更好的阅读体验。
+
 - [C 项目](#C-项目)
 - [C++ 项目](#C-项目-1)
 - [CSS 项目](#CSS-项目)
@@ -27,6 +17,7 @@
 - [Objective-C 项目](#Objective-C-项目)
 - [PHP 项目](#PHP-项目)
 - [Python 项目](#Python-项目)
+- [Rust 项目](#Rust-项目)
 - [Swift 项目](#Swift-项目)
 - [其它](#其它)
 - [开源书籍](#开源书籍)
@@ -35,15 +26,13 @@
 
 - [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
 
-**Tips**：如果文中的图刷不出来，可以向我们[反馈](https://github.com/521xueweihan/HelloGitHub/issues/899)。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
-欢迎关注 HelloGitHub 公众号
+关注「HelloGitHub」公众号，第一时间收到推送
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号发布最新一期
+> **以下为本期内容**｜每个月 **28** 号更新
 
 ### C 项目
 1、[ngx_waf](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ADD-SP/ngx_waf)：一个 Nginx 防火墙模块。我差点就错过了的宝藏项目，它使用简单不需要复杂的配置，支持的功能直戳我的痛点。你看：
@@ -182,14 +171,23 @@ go run knnclassifier_iris.go
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/57/img/pgcli.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-21、[15-minute-apps](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/learnpyqt/15-minute-apps)：基于 PyQt 框架写的小型桌面应用程序的集合。想用 Python 写桌面应用的小伙伴，这个项目应该可以帮到你。比如写个扫雷游戏：
+21、[15-minute-apps](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pythonguis/15-minute-apps)：基于 PyQt 框架写的小型桌面应用程序的集合。想用 Python 写桌面应用的小伙伴，这个项目应该可以帮到你。比如写个扫雷游戏：
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/57/img/15-minute-apps.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
+### Rust 项目
+22、[bat](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sharkdp/bat)：替代 cat 的命令行工具。你还在命令行用 cat 查看文件吗？那你就 out 啦！今天推荐的 bat 它不仅支持语法高亮，还能展示 Git 的改动。macOS 下安装命令：`brew install bat` 相信你用过 bat 后就不会再想用回 cat 了
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/57/img/bat.png' style="max-width:80%; max-height=80%;"></img></p>
+
+23、[jpeg_tutorial](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/MROS/jpeg_tutorial)：教你编写 JPEG 解码器的教程，示例为 Rust 代码
+
+<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
+
 ### Swift 项目
-22、[Pine](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lukakerr/Pine)：一个免费、轻量、简洁的 macOS Markdown 编辑器。功能：
+24、[Pine](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lukakerr/Pine)：一个免费、轻量、简洁的 macOS Markdown 编辑器。功能：
 - 主题
 - LaTex 公式
 - 自动保存
@@ -199,7 +197,7 @@ go run knnclassifier_iris.go
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/57/img/Pine.png' style="max-width:80%; max-height=80%;"></img></p>
 
-23、[Publish](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/JohnSundell/Publish)：专为 Swift 开发人员准备的静态网站生成器。让你实现整个网站都是用 Swift 构建的工具，支持多种主题、插件以及更多强大的自定义选项。[示例网站](https://swiftbysundell.com/)，安装和快速开始：
+25、[Publish](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/JohnSundell/Publish)：专为 Swift 开发人员准备的静态网站生成器。让你实现整个网站都是用 Swift 构建的工具，支持多种主题、插件以及更多强大的自定义选项。[示例网站](https://swiftbysundell.com/)，安装和快速开始：
 ```
 $ git clone https://github.com/JohnSundell/Publish.git
 $ cd Publish
@@ -214,23 +212,17 @@ $ publish new
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
-24、[open-source-rover](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nasa-jpl/open-source-rover)：NASA 面向科技爱好者开源的火星漫游车设计方案和代码。通过该项目你可以使用便宜的树莓派做出自己的火星漫游车，所需的零件很容易就可以买到，遥控部分是使用现成的 Xbox 手柄或者手机，减少花销。喜欢动手和硬件的小伙伴们，这个东西够酷吗？
+26、[open-source-rover](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nasa-jpl/open-source-rover)：NASA 面向科技爱好者开源的火星漫游车设计方案和代码。通过该项目你可以使用便宜的树莓派做出自己的火星漫游车，所需的零件很容易就可以买到，遥控部分是使用现成的 Xbox 手柄或者手机，减少花销。喜欢动手和硬件的小伙伴们，这个东西够酷吗？
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/57/img/open-source-rover.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-25、[bat](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sharkdp/bat)：替代 cat 的命令行工具。你还在命令行用 cat 查看文件吗？那你就 out 啦！今天推荐的 bat 它不仅支持语法高亮，还能展示 Git 的改动。macOS 下安装命令：`brew install bat` 相信你用过 bat 后就不会再想用回 cat 了
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/57/img/bat.png' style="max-width:80%; max-height=80%;"></img></p>
-
-26、[Web-Dev-For-Beginners](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/microsoft/Web-Dev-For-Beginners)：微软开源的 Web 开发教程。该教程共有 24 节课，但目前只有英文版
+27、[Web-Dev-For-Beginners](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/microsoft/Web-Dev-For-Beginners)：微软开源的 Web 开发教程。该教程共有 24 节课，但目前只有英文版
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/57/img/Web-Dev-For-Beginners.png' style="max-width:80%; max-height=80%;"></img></p>
 
-27、[neofetch](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dylanaraps/neofetch)：展示操作系统信息的命令行工具，支持将近 150 种操作系统
+28、[neofetch](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dylanaraps/neofetch)：展示操作系统信息的命令行工具，支持将近 150 种操作系统
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/57/img/neofetch.png' style="max-width:80%; max-height=80%;"></img></p>
-
-28、[jpeg_tutorial](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/MROS/jpeg_tutorial)：教你编写 JPEG 解码器的教程，示例为 Rust 代码
 
 29、[sql-style-guide](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mattm/sql-style-guide)：一份 SQL 语句编写风格建议。比如：
 ```
@@ -277,17 +269,16 @@ HELLO
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/56/HelloGitHub56.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | 『下一期』
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/56/HelloGitHub56.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/58/HelloGitHub58.md">『下一期』</a>
 </p>
 
 ---
 <p align="center">
-    👉 <a href='https://afdian.net/@HelloGitHub'>点击赞助</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击推荐项目</a> 👈<br>
+    👉 <a href='https://www.ucloud.cn/site/active/kuaijie.html?invitation_code=C1xF2ECA89A2592'>云主机 4 元/月</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    "第一时间收到推送及更多内容"<br>
-
+    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/57/'>这里</a> 获取更好的阅读体验。
 </p>
-
 
 ## 声明
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh"><img alt="知识共享许可协议" style="border-width: 0" src="https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png"></a><br>本作品采用 <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh">署名-非商业性使用-禁止演绎 4.0 国际</a> 进行许可。

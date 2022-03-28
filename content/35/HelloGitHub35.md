@@ -1,23 +1,13 @@
 # 《HelloGitHub》第 35 期
->兴趣是最好的老师，**HelloGitHub** 就是帮你找到兴趣！
+> 兴趣是最好的老师，**HelloGitHub** 让你对编程感兴趣！
 <p align="center">
     <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
 </p>
 
-## 简介
-分享 GitHub 上有趣、入门级的开源项目。
-
-这是一个面向**编程新手**、**热爱编程**、**对开源社区感兴趣** 人群的月刊，月刊的内容包括：**各种编程语言的项目**、**让生活变得更美好的工具**、**书籍、学习笔记、教程等**，这些开源项目大多都是非常容易上手，而且非常 Cool。主要是希望大家能动手用起来，加入到**开源社区**中。
-- 会编程的可以贡献代码
-- 不会编程的可以反馈使用这些工具中的 Bug
-- 帮着宣传你觉得优秀的项目
-- Star 项目⭐️
-
-在浏览、参与这些项目的过程中，你将学习到**更多编程知识**、**提高编程技巧**、**找到编程的乐趣**。
-
-🎉 最后 HelloGitHub 这个项目就诞生了 🎉
-
 ## 目录
+
+**Tips**：如果文中的图刷不出来，可以点击 [这里](https://hellogithub.com/periodical/volume/35/) 获取更好的阅读体验。
+
 - [C# 项目](#C-项目)
 - [C++ 项目](#C-项目-1)
 - [Go 项目](#Go-项目)
@@ -27,21 +17,18 @@
 - [Python 项目](#Python-项目)
 - [其它](#其它)
 - [开源书籍](#开源书籍)
-- [教程](#教程)
 - [机器学习](#机器学习)
 
 
 - [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
 
-**Tips**：如果文中的图刷不出来，可以向我们[反馈](https://github.com/521xueweihan/HelloGitHub/issues/899)。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
-欢迎关注 HelloGitHub 公众号
+关注「HelloGitHub」公众号，第一时间收到推送
 </p>
 
 ## 内容
-> **以下为本期内容**｜每个月 **28** 号发布最新一期
+> **以下为本期内容**｜每个月 **28** 号更新
 
 ### C# 项目
 1、[IdentityServer4.Admin](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/skoruba/IdentityServer4.Admin)：免费开源的 IdentityServer4 与 Asp.Net Core Identity 管理器。IdentityServer4 官方的管理器是收费的，该项目很好的替代了官方管理器，可以方便的管理使用 IdentityServer4 所搭建的认证服务器
@@ -148,11 +135,17 @@ $ bash halo-cli.sh -u
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
-11、[Gitter](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kokohuang/Gitter)：GitHub 的小程序客户端。UI 设计漂亮，可作为小程序和 GitHub 结合的实战项目学习
+11、[Gitter](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/0xPool/Gitter)：GitHub 的小程序客户端。UI 设计漂亮，可作为小程序和 GitHub 结合的实战项目学习
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/35/img/Gitter.png' style="max-width:80%; max-height=80%;"></img></p>
 
-12、[Motrix](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/agalwood/Motrix)：桌面下载工具，支持下载 HTTP、FTP、BT、磁力链、百度网盘等资源。界面简洁易用，采用 Vue + VueX + Element 的技术架构适合学习桌面应用开发
+12、[Motrix](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/agalwood/Motrix)：免费开源功能齐全的下载工具。技术展采用 Vue + VueX + Element，不仅界面简洁大方而且支持下载 BT、磁力链等资源。如果你受够了下载限速、弹框广告等，就快来 Motrix 享受“纯”下载的平静吧！技术栈适合学习桌面应用开发
+- 支持 Windows、Linux、macOS
+- 最高支持 10 个任务同时下载
+- 单任务最高支持 64 线程下载
+- 设置上传/下载限速
+- 移除任务时可同时删除相关文件
+- 等等
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/35/img/Motrix.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -230,21 +223,18 @@ if __name__ == '__main__':
 
 22、[OI-wiki](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/OI-wiki/OI-wiki)：免费、开放、持续更新的编程竞赛相关知识教程。包含竞赛的基础知识、常见题型、解题思路以及常用工具等内容，帮助大家更快速、深入地学习编程竞赛相关知识
 
+23、[USTC-Course](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/USTC-Resource/USTC-Course)：该仓库收录中国科学技术大学众多课程资源。包括电子版教材、参考书、讲义、试卷、学习心得、习题解答等。以计算机学院课程为主，也包含公选课、自由选修等其他课程。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/35/img/USTC-CS-Courses-Resource.png' style="max-width:80%; max-height=80%;"></img></p>
+
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 开源书籍
-23、[You-Dont-Know-JS](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/getify/You-Dont-Know-JS)：（英文）深入探讨 JavaScript 语言核心机制的书籍，适用于深入学习 JS。该书已出版，但在线阅读免费
+24、[You-Dont-Know-JS](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/getify/You-Dont-Know-JS)：（英文）深入探讨 JavaScript 语言核心机制的书籍，适用于深入学习 JS。该书已出版，但在线阅读免费
 
-24、[d2l-zh](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/d2l-ai/d2l-zh)：《Dive into Deep Learning 》翻译版，即《动手学深度学习》。[在线阅读](http://zh.d2l.ai/)
+25、[d2l-zh](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/d2l-ai/d2l-zh)：《Dive into Deep Learning 》翻译版，即《动手学深度学习》。[在线阅读](http://zh.d2l.ai/)
 
-25、[cppwasm-book](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/3dgen/cppwasm-book)：《C/C++ 面向 WebAssembly 编程》，[在线阅读](https://3dgen.cn/cppwasm-book/)
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
-### 教程
-26、[USTC-Course](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/USTC-Resource/USTC-Course)：该仓库收录中国科学技术大学众多课程资源。包括电子版教材、参考书、讲义、试卷、学习心得、习题解答等。以计算机学院课程为主，也包含公选课、自由选修等其他课程。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/35/img/USTC-CS-Courses-Resource.png' style="max-width:80%; max-height=80%;"></img></p>
+26、[cppwasm-book](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/3dgen/cppwasm-book)：《C/C++ 面向 WebAssembly 编程》，[在线阅读](https://3dgen.cn/cppwasm-book/)
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -280,12 +270,11 @@ doc.sentences[0].print_dependencies()
 
 ---
 <p align="center">
-    👉 <a href='https://afdian.net/@HelloGitHub'>点击赞助</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击推荐项目</a> 👈<br>
+    👉 <a href='https://www.ucloud.cn/site/active/kuaijie.html?invitation_code=C1xF2ECA89A2592'>云主机 4 元/月</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    "第一时间收到推送及更多内容"<br>
-
+    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
+    如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/35/'>这里</a> 获取更好的阅读体验。
 </p>
-
 
 ## 声明
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh"><img alt="知识共享许可协议" style="border-width: 0" src="https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png"></a><br>本作品采用 <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh">署名-非商业性使用-禁止演绎 4.0 国际</a> 进行许可。
